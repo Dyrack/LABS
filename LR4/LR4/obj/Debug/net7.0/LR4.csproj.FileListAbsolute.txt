@@ -1,0 +1,14 @@
+C:\Users\HOME-PC1\Desktop\cod\rep\LR4\LR4\bin\Debug\net7.0\LR4.exe
+C:\Users\HOME-PC1\Desktop\cod\rep\LR4\LR4\bin\Debug\net7.0\LR4.deps.json
+C:\Users\HOME-PC1\Desktop\cod\rep\LR4\LR4\bin\Debug\net7.0\LR4.runtimeconfig.json
+C:\Users\HOME-PC1\Desktop\cod\rep\LR4\LR4\bin\Debug\net7.0\LR4.dll
+C:\Users\HOME-PC1\Desktop\cod\rep\LR4\LR4\bin\Debug\net7.0\LR4.pdb
+C:\Users\HOME-PC1\Desktop\cod\rep\LR4\LR4\obj\Debug\net7.0\LR4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME-PC1\Desktop\cod\rep\LR4\LR4\obj\Debug\net7.0\LR4.AssemblyInfoInputs.cache
+C:\Users\HOME-PC1\Desktop\cod\rep\LR4\LR4\obj\Debug\net7.0\LR4.AssemblyInfo.cs
+C:\Users\HOME-PC1\Desktop\cod\rep\LR4\LR4\obj\Debug\net7.0\LR4.csproj.CoreCompileInputs.cache
+C:\Users\HOME-PC1\Desktop\cod\rep\LR4\LR4\obj\Debug\net7.0\LR4.dll
+C:\Users\HOME-PC1\Desktop\cod\rep\LR4\LR4\obj\Debug\net7.0\refint\LR4.dll
+C:\Users\HOME-PC1\Desktop\cod\rep\LR4\LR4\obj\Debug\net7.0\LR4.pdb
+C:\Users\HOME-PC1\Desktop\cod\rep\LR4\LR4\obj\Debug\net7.0\LR4.genruntimeconfig.cache
+C:\Users\HOME-PC1\Desktop\cod\rep\LR4\LR4\obj\Debug\net7.0\ref\LR4.dll

@@ -1,0 +1,14 @@
+C:\Users\HOME-PC1\Desktop\cod\rep\LR6\LR6\bin\Debug\net7.0\LR6.exe
+C:\Users\HOME-PC1\Desktop\cod\rep\LR6\LR6\bin\Debug\net7.0\LR6.deps.json
+C:\Users\HOME-PC1\Desktop\cod\rep\LR6\LR6\bin\Debug\net7.0\LR6.runtimeconfig.json
+C:\Users\HOME-PC1\Desktop\cod\rep\LR6\LR6\bin\Debug\net7.0\LR6.dll
+C:\Users\HOME-PC1\Desktop\cod\rep\LR6\LR6\bin\Debug\net7.0\LR6.pdb
+C:\Users\HOME-PC1\Desktop\cod\rep\LR6\LR6\obj\Debug\net7.0\LR6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME-PC1\Desktop\cod\rep\LR6\LR6\obj\Debug\net7.0\LR6.AssemblyInfoInputs.cache
+C:\Users\HOME-PC1\Desktop\cod\rep\LR6\LR6\obj\Debug\net7.0\LR6.AssemblyInfo.cs
+C:\Users\HOME-PC1\Desktop\cod\rep\LR6\LR6\obj\Debug\net7.0\LR6.csproj.CoreCompileInputs.cache
+C:\Users\HOME-PC1\Desktop\cod\rep\LR6\LR6\obj\Debug\net7.0\LR6.dll
+C:\Users\HOME-PC1\Desktop\cod\rep\LR6\LR6\obj\Debug\net7.0\refint\LR6.dll
+C:\Users\HOME-PC1\Desktop\cod\rep\LR6\LR6\obj\Debug\net7.0\LR6.pdb
+C:\Users\HOME-PC1\Desktop\cod\rep\LR6\LR6\obj\Debug\net7.0\LR6.genruntimeconfig.cache
+C:\Users\HOME-PC1\Desktop\cod\rep\LR6\LR6\obj\Debug\net7.0\ref\LR6.dll

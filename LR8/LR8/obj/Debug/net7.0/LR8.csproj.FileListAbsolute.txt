@@ -1,0 +1,14 @@
+C:\Users\HOME-PC1\Desktop\cod\rep\LR8\LR8\bin\Debug\net7.0\LR8.exe
+C:\Users\HOME-PC1\Desktop\cod\rep\LR8\LR8\bin\Debug\net7.0\LR8.deps.json
+C:\Users\HOME-PC1\Desktop\cod\rep\LR8\LR8\bin\Debug\net7.0\LR8.runtimeconfig.json
+C:\Users\HOME-PC1\Desktop\cod\rep\LR8\LR8\bin\Debug\net7.0\LR8.dll
+C:\Users\HOME-PC1\Desktop\cod\rep\LR8\LR8\bin\Debug\net7.0\LR8.pdb
+C:\Users\HOME-PC1\Desktop\cod\rep\LR8\LR8\obj\Debug\net7.0\LR8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME-PC1\Desktop\cod\rep\LR8\LR8\obj\Debug\net7.0\LR8.AssemblyInfoInputs.cache
+C:\Users\HOME-PC1\Desktop\cod\rep\LR8\LR8\obj\Debug\net7.0\LR8.AssemblyInfo.cs
+C:\Users\HOME-PC1\Desktop\cod\rep\LR8\LR8\obj\Debug\net7.0\LR8.csproj.CoreCompileInputs.cache
+C:\Users\HOME-PC1\Desktop\cod\rep\LR8\LR8\obj\Debug\net7.0\LR8.dll
+C:\Users\HOME-PC1\Desktop\cod\rep\LR8\LR8\obj\Debug\net7.0\refint\LR8.dll
+C:\Users\HOME-PC1\Desktop\cod\rep\LR8\LR8\obj\Debug\net7.0\LR8.pdb
+C:\Users\HOME-PC1\Desktop\cod\rep\LR8\LR8\obj\Debug\net7.0\LR8.genruntimeconfig.cache
+C:\Users\HOME-PC1\Desktop\cod\rep\LR8\LR8\obj\Debug\net7.0\ref\LR8.dll

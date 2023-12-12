@@ -1,0 +1,14 @@
+C:\Users\HOME-PC1\Desktop\cod\rep\LR3\LR3\bin\Debug\net7.0\LR3.exe
+C:\Users\HOME-PC1\Desktop\cod\rep\LR3\LR3\bin\Debug\net7.0\LR3.deps.json
+C:\Users\HOME-PC1\Desktop\cod\rep\LR3\LR3\bin\Debug\net7.0\LR3.runtimeconfig.json
+C:\Users\HOME-PC1\Desktop\cod\rep\LR3\LR3\bin\Debug\net7.0\LR3.dll
+C:\Users\HOME-PC1\Desktop\cod\rep\LR3\LR3\bin\Debug\net7.0\LR3.pdb
+C:\Users\HOME-PC1\Desktop\cod\rep\LR3\LR3\obj\Debug\net7.0\LR3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME-PC1\Desktop\cod\rep\LR3\LR3\obj\Debug\net7.0\LR3.AssemblyInfoInputs.cache
+C:\Users\HOME-PC1\Desktop\cod\rep\LR3\LR3\obj\Debug\net7.0\LR3.AssemblyInfo.cs
+C:\Users\HOME-PC1\Desktop\cod\rep\LR3\LR3\obj\Debug\net7.0\LR3.csproj.CoreCompileInputs.cache
+C:\Users\HOME-PC1\Desktop\cod\rep\LR3\LR3\obj\Debug\net7.0\LR3.dll
+C:\Users\HOME-PC1\Desktop\cod\rep\LR3\LR3\obj\Debug\net7.0\refint\LR3.dll
+C:\Users\HOME-PC1\Desktop\cod\rep\LR3\LR3\obj\Debug\net7.0\LR3.pdb
+C:\Users\HOME-PC1\Desktop\cod\rep\LR3\LR3\obj\Debug\net7.0\LR3.genruntimeconfig.cache
+C:\Users\HOME-PC1\Desktop\cod\rep\LR3\LR3\obj\Debug\net7.0\ref\LR3.dll
